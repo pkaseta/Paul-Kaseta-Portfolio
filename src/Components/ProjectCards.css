@@ -1,0 +1,30 @@
+.project-card-container {
+  margin-bottom: 10vh;
+  margin: auto;
+  height: 65%;
+  width: 75%;
+  /* background-color: rgb(0, 0, 0, 0.1); */
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.project-cards {
+  width: 75%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.project-cards img {
+  height: 15vh;
+}
+/* .card {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 90%;
+} */
