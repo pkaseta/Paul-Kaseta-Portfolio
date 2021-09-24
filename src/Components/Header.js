@@ -13,7 +13,14 @@ function Header() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link href="https://github.com/pkaseta">My Github</Nav.Link>
-              <Nav.Link href="/Resume">Resume</Nav.Link>
+              <Nav.Link>
+                <a
+                  style={{ textDecoration: 'none' }}
+                  href="/Resume"
+                >
+                  Resume
+                </a>
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
