@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Paul-Kaseta-Portfolio/static/css/main.84c939fb.chunk.css",
-    "main.js": "/Paul-Kaseta-Portfolio/static/js/main.0404f695.chunk.js",
-    "main.js.map": "/Paul-Kaseta-Portfolio/static/js/main.0404f695.chunk.js.map",
+    "main.js": "/Paul-Kaseta-Portfolio/static/js/main.f7c5621c.chunk.js",
+    "main.js.map": "/Paul-Kaseta-Portfolio/static/js/main.f7c5621c.chunk.js.map",
     "runtime-main.js": "/Paul-Kaseta-Portfolio/static/js/runtime-main.6959ce5c.js",
     "runtime-main.js.map": "/Paul-Kaseta-Portfolio/static/js/runtime-main.6959ce5c.js.map",
     "static/css/2.818011ed.chunk.css": "/Paul-Kaseta-Portfolio/static/css/2.818011ed.chunk.css",
-    "static/js/2.9b32d860.chunk.js": "/Paul-Kaseta-Portfolio/static/js/2.9b32d860.chunk.js",
-    "static/js/2.9b32d860.chunk.js.map": "/Paul-Kaseta-Portfolio/static/js/2.9b32d860.chunk.js.map",
+    "static/js/2.0eada22c.chunk.js": "/Paul-Kaseta-Portfolio/static/js/2.0eada22c.chunk.js",
+    "static/js/2.0eada22c.chunk.js.map": "/Paul-Kaseta-Portfolio/static/js/2.0eada22c.chunk.js.map",
     "ff73626ddeb98f0d62ae9a3c3740b031.js": "/Paul-Kaseta-Portfolio/ff73626ddeb98f0d62ae9a3c3740b031.js",
     "ff73626ddeb98f0d62ae9a3c3740b031.js.LICENSE.txt": "/Paul-Kaseta-Portfolio/ff73626ddeb98f0d62ae9a3c3740b031.js.LICENSE.txt",
     "index.html": "/Paul-Kaseta-Portfolio/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/2.818011ed.chunk.css.map",
     "static/css/main.84c939fb.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/main.84c939fb.chunk.css.map",
-    "static/js/2.9b32d860.chunk.js.LICENSE.txt": "/Paul-Kaseta-Portfolio/static/js/2.9b32d860.chunk.js.LICENSE.txt",
+    "static/js/2.0eada22c.chunk.js.LICENSE.txt": "/Paul-Kaseta-Portfolio/static/js/2.0eada22c.chunk.js.LICENSE.txt",
     "static/media/CSSTextApp.9c47f312.PNG": "/Paul-Kaseta-Portfolio/static/media/CSSTextApp.9c47f312.PNG",
     "static/media/PaulKaseta.0d6c5758.pdf": "/Paul-Kaseta-Portfolio/static/media/PaulKaseta.0d6c5758.pdf",
     "static/media/index.css": "/Paul-Kaseta-Portfolio/static/media/background.1e8409ac.jfif",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.6959ce5c.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.9b32d860.chunk.js",
+    "static/js/2.0eada22c.chunk.js",
     "static/css/main.84c939fb.chunk.css",
-    "static/js/main.0404f695.chunk.js"
+    "static/js/main.f7c5621c.chunk.js"
   ]
 }
