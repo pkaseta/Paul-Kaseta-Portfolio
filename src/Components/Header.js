@@ -12,7 +12,6 @@ function Header() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="/">About Me</Nav.Link>
               <Nav.Link href="https://github.com/pkaseta">My Github</Nav.Link>
               <Nav.Link href="/Resume">Resume</Nav.Link>
             </Nav>

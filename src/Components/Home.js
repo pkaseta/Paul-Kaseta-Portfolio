@@ -3,7 +3,8 @@ import ProjectCards from "./ProjectCards";
 import AboutMeCards from "./AboutMeCards";
 import "./Home.css";
 
-function Home() {
+function Home(props) {
+  const { show, setShow, handleClose, handleShow } = props;
   return (
     <div className="home-page-container">
       <div>

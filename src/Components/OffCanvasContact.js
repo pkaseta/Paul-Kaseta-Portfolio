@@ -3,7 +3,7 @@ import { Button, Offcanvas } from "react-bootstrap";
 import "./OffCanvasContact.css";
 import ContactMe from "./ContactMe";
 
-const OffCanvasContact = () => {
+const OffCanvasContact = (props) => {
   const [show, setShow] = useState(false);
 
   const handleClose = () => setShow(false);
@@ -15,12 +15,12 @@ const OffCanvasContact = () => {
         Contact Me
       </Button>
 
-      <Offcanvas show={show} onHide={handleClose}>
+      <Offcanvas show={show} onHide={handleClose} id='contact-offcanvas'>
         <Offcanvas.Header closeButton>
-          <Offcanvas.Title>Contacct Form</Offcanvas.Title>
+          <Offcanvas.Title>Contact Form</Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
-          <ContactMe />
+          <ContactMe handleClose={handleClose} />
         </Offcanvas.Body>
       </Offcanvas>
     </>

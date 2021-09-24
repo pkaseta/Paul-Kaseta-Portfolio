@@ -1,3 +1,22 @@
 .offcanvas {
-  border-right: 4px solid black;
+  border-right: 10px solid black;
+  background-image: url('../Assets/Images/offcanvasBackground.jpeg');
+  background-size: cover;
+
+}
+.offcanvas-body{
+  display: flex;
+  justify-content: center;
+  align-items: center !important;
+/* background-image: url('../Assets/Images/offcanvasBackground.jpeg'); */
+
+}
+.offcanvas-header{
+  color: white;
+  text-shadow: 3px 3px 2px black;
+  font-size: x-large;
+  font-weight: bold;
+}
+.offcanvas-title{
+  font-size: x-large;
 }

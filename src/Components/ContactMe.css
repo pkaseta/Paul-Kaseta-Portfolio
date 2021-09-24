@@ -5,8 +5,12 @@
   text-align: center;
   height: 70%;
   width: 90%;
-  background-color: white;
+  background-color: #40b9ff71;
   border-radius: 10px;
   box-shadow: 5px 5px 5px black;
   margin-bottom: 3vh;
+  color: white;
+  font-size: x-large;
+  font-weight: bold;
+  text-shadow: 4px 4px 3px black;
 }
