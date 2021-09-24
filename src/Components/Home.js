@@ -6,7 +6,7 @@ import "./Home.css";
 function Home(props) {
   const { show, setShow, handleClose, handleShow } = props;
   return (
-    <div className="home-page-container">
+    <div className="home-page-container" id='home'>
       <div>
         <AboutMeCards />
       </div>
