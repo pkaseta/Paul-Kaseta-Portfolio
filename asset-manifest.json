@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Paul-Kaseta-Portfolio/static/css/main.57b9cff1.chunk.css",
-    "main.js": "/Paul-Kaseta-Portfolio/static/js/main.4e7b55f9.chunk.js",
-    "main.js.map": "/Paul-Kaseta-Portfolio/static/js/main.4e7b55f9.chunk.js.map",
+    "main.js": "/Paul-Kaseta-Portfolio/static/js/main.ffcbf0a7.chunk.js",
+    "main.js.map": "/Paul-Kaseta-Portfolio/static/js/main.ffcbf0a7.chunk.js.map",
     "runtime-main.js": "/Paul-Kaseta-Portfolio/static/js/runtime-main.6959ce5c.js",
     "runtime-main.js.map": "/Paul-Kaseta-Portfolio/static/js/runtime-main.6959ce5c.js.map",
     "static/css/2.818011ed.chunk.css": "/Paul-Kaseta-Portfolio/static/css/2.818011ed.chunk.css",
@@ -17,13 +17,13 @@
     "static/media/OffCanvasContact.css": "/Paul-Kaseta-Portfolio/static/media/background.1e8409ac.jfif",
     "static/media/bookstoreScreenShot.15fa7bed.PNG": "/Paul-Kaseta-Portfolio/static/media/bookstoreScreenShot.15fa7bed.PNG",
     "static/media/businessWebsite.0f62b57d.PNG": "/Paul-Kaseta-Portfolio/static/media/businessWebsite.0f62b57d.PNG",
-    "static/media/tempBioImg.b5ffe89d.jpg": "/Paul-Kaseta-Portfolio/static/media/tempBioImg.b5ffe89d.jpg"
+    "static/media/profilePic.b8095b60.jpeg": "/Paul-Kaseta-Portfolio/static/media/profilePic.b8095b60.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.6959ce5c.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.1d12db00.chunk.js",
     "static/css/main.57b9cff1.chunk.css",
-    "static/js/main.4e7b55f9.chunk.js"
+    "static/js/main.ffcbf0a7.chunk.js"
   ]
 }
