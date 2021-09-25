@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Paul-Kaseta-Portfolio/static/css/main.cefdaa78.chunk.css",
+    "main.css": "/Paul-Kaseta-Portfolio/static/css/main.57b9cff1.chunk.css",
     "main.js": "/Paul-Kaseta-Portfolio/static/js/main.2af2b043.chunk.js",
     "main.js.map": "/Paul-Kaseta-Portfolio/static/js/main.2af2b043.chunk.js.map",
     "runtime-main.js": "/Paul-Kaseta-Portfolio/static/js/runtime-main.6959ce5c.js",
@@ -12,7 +12,7 @@
     "ff73626ddeb98f0d62ae9a3c3740b031.js.LICENSE.txt": "/Paul-Kaseta-Portfolio/ff73626ddeb98f0d62ae9a3c3740b031.js.LICENSE.txt",
     "index.html": "/Paul-Kaseta-Portfolio/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.cefdaa78.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/main.cefdaa78.chunk.css.map",
+    "static/css/main.57b9cff1.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/main.57b9cff1.chunk.css.map",
     "static/js/2.0eada22c.chunk.js.LICENSE.txt": "/Paul-Kaseta-Portfolio/static/js/2.0eada22c.chunk.js.LICENSE.txt",
     "static/media/CSSTextApp.9c47f312.PNG": "/Paul-Kaseta-Portfolio/static/media/CSSTextApp.9c47f312.PNG",
     "static/media/PaulKaseta1.75a65bee.pdf": "/Paul-Kaseta-Portfolio/static/media/PaulKaseta1.75a65bee.pdf",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.6959ce5c.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.0eada22c.chunk.js",
-    "static/css/main.cefdaa78.chunk.css",
+    "static/css/main.57b9cff1.chunk.css",
     "static/js/main.2af2b043.chunk.js"
   ]
 }
