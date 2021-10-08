@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Paul-Kaseta-Portfolio/static/css/main.6f833c7f.chunk.css",
-    "main.js": "/Paul-Kaseta-Portfolio/static/js/main.95319392.chunk.js",
-    "main.js.map": "/Paul-Kaseta-Portfolio/static/js/main.95319392.chunk.js.map",
+    "main.css": "/Paul-Kaseta-Portfolio/static/css/main.252c4120.chunk.css",
+    "main.js": "/Paul-Kaseta-Portfolio/static/js/main.dcb7ebae.chunk.js",
+    "main.js.map": "/Paul-Kaseta-Portfolio/static/js/main.dcb7ebae.chunk.js.map",
     "runtime-main.js": "/Paul-Kaseta-Portfolio/static/js/runtime-main.6959ce5c.js",
     "runtime-main.js.map": "/Paul-Kaseta-Portfolio/static/js/runtime-main.6959ce5c.js.map",
     "static/css/2.818011ed.chunk.css": "/Paul-Kaseta-Portfolio/static/css/2.818011ed.chunk.css",
@@ -10,20 +10,20 @@
     "static/js/2.1d12db00.chunk.js.map": "/Paul-Kaseta-Portfolio/static/js/2.1d12db00.chunk.js.map",
     "index.html": "/Paul-Kaseta-Portfolio/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.6f833c7f.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/main.6f833c7f.chunk.css.map",
+    "static/css/main.252c4120.chunk.css.map": "/Paul-Kaseta-Portfolio/static/css/main.252c4120.chunk.css.map",
     "static/js/2.1d12db00.chunk.js.LICENSE.txt": "/Paul-Kaseta-Portfolio/static/js/2.1d12db00.chunk.js.LICENSE.txt",
     "static/media/CSSTextApp.9c47f312.PNG": "/Paul-Kaseta-Portfolio/static/media/CSSTextApp.9c47f312.PNG",
     "static/media/PaulKaseta1.75a65bee.pdf": "/Paul-Kaseta-Portfolio/static/media/PaulKaseta1.75a65bee.pdf",
-    "static/media/OffCanvasContact.css": "/Paul-Kaseta-Portfolio/static/media/background.1e8409ac.jfif",
+    "static/media/OffCanvasContact.css": "/Paul-Kaseta-Portfolio/static/media/background.6050905d.jpeg",
     "static/media/bookstoreScreenShot.15fa7bed.PNG": "/Paul-Kaseta-Portfolio/static/media/bookstoreScreenShot.15fa7bed.PNG",
     "static/media/businessWebsite.0f62b57d.PNG": "/Paul-Kaseta-Portfolio/static/media/businessWebsite.0f62b57d.PNG",
-    "static/media/profilePic.b8095b60.jpeg": "/Paul-Kaseta-Portfolio/static/media/profilePic.b8095b60.jpeg"
+    "static/media/profilePic.51c9c691.jpeg": "/Paul-Kaseta-Portfolio/static/media/profilePic.51c9c691.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.6959ce5c.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.1d12db00.chunk.js",
-    "static/css/main.6f833c7f.chunk.css",
-    "static/js/main.95319392.chunk.js"
+    "static/css/main.252c4120.chunk.css",
+    "static/js/main.dcb7ebae.chunk.js"
   ]
 }
